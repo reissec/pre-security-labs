@@ -1,0 +1,31 @@
+
+# OSI Model – Layered Architecture of Network Communication
+
+The OSI (Open Systems Interconnection) model is a conceptual framework used to understand how data moves through a network. It consists of 7 layers:
+
+1. **Physical** – Transmits raw bits over a physical medium.  
+   _Example: Ethernet cables, fiber optics, hubs._
+
+2. **Data Link** – Ensures node-to-node data transfer and handles MAC addresses.  
+   _Example: Switches, MAC Address._
+
+3. **Network** – Routes data between networks using IP addresses.  
+   _Example: Routers, IP._
+
+4. **Transport** – Ensures reliable transmission with protocols like TCP/UDP.  
+   _Example: TCP handshake, UDP streaming._
+
+5. **Session** – Manages sessions between applications.  
+   _Example: API session handling._
+
+6. **Presentation** – Formats or encrypts data.  
+   _Example: SSL/TLS, encoding, compression._
+
+7. **Application** – Closest to the user; handles high-level protocols.  
+   _Example: HTTP, DNS, FTP._
+
+---
+
+🧠 This summary was created after completing the **"Introduction to the OSI Model"** module on TryHackMe.
+
+📚 Studying and documenting to reinforce my understanding and help others starting in cybersecurity.
